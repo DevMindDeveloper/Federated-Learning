@@ -1,0 +1,9 @@
+imutils
+scikit-learn
+keras
+tensorflow-federated
+opencv-python
+numpy
+tensorflow
+phe
+tenseal
